@@ -1,6 +1,6 @@
 [
     {
-        "name": "company.salesManager.playboy1",
+        "name": "company.salesManager.playboyA",
         "size": 12,
         "imports": [
             "company.salesManager.salesPersonB",
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "company.salesManager.playboy2",
+        "name": "company.salesManager.playboyB",
         "size": 2,
         "imports": []
     },
