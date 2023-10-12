@@ -3,7 +3,7 @@
         "name": "company.salesManager.playboyA",
         "size": 12,
         "imports": [
-            "company.salesManager.salesPersonB",
+            "company.salesManager.playboyB",
             "company.HRManager.recruiterB",
             "company.engineerManager.engineerB"
         ]
@@ -18,7 +18,7 @@
         "size": 120,
         "imports": [
             "company.HRManager.recruiterB",
-            "company.salesManager.salesPersonA"
+            "company.salesManager.playboyA"
         ]
     },
     {
