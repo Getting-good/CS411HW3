@@ -5,6 +5,12 @@ dataStructure.primitive.Integer,1
 dataStructure.primitive.Null,2
 dataStructure.primitive.Double,3
 dataStructure.primitive.Character,4
+dataStructure.primitive.Float,5,
+dataStructure.primitive.Boolean,6
+dataStructure.primitive.Array,7
+dataStructure.primitive.Struct,8
+dataStructure.primitive.Void,9
+dataStructure.primitive.Enum,10
 dataStructure.non-Primitive,
 dataStructure.non-Primitive.linear,
 dataStructure.non-Primitive.linear.Array,5
