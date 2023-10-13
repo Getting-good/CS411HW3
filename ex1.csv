@@ -1,19 +1,19 @@
 id,value
 DataStructure,
 DataStructure.Primitive,
-DataStructure.Primitive.integer,1
-DataStructure.Primitive.Null,2
-DataStructure.Primitive.double,3
-DataStructure.Primitive.Character,4
+DataStructure.Primitive.integer,8880
+DataStructure.Primitive.Null,1921
+DataStructure.Primitive.double,1422
+DataStructure.Primitive.Character,412
 DataStructure.Non-Primitive,
 DataStructure.Non-Primitive.Linear,
-DataStructure.Non-Primitive.Linear.Array,5
-DataStructure.Non-Primitive.Linear.LinkedList,6
-DataStructure.Non-Primitive.Linear.Stack,7
-DataStructure.Non-Primitive.Linear.Queue,8
-DataStructure.Non-Primitive.Linear.Heap,9
+DataStructure.Non-Primitive.Linear.Array,753
+DataStructure.Non-Primitive.Linear.LinkedList,234
+DataStructure.Non-Primitive.Linear.Stack,864
+DataStructure.Non-Primitive.Linear.Queue,2454
+DataStructure.Non-Primitive.Linear.Heap,1315
 DataStructure.Non-Primitive.Non-Linear,
-DataStructure.Non-Primitive.Non-Linear.Tree,10
-DataStructure.Non-Primitive.Non-Linear.Graph,11
+DataStructure.Non-Primitive.Non-Linear.Tree,2363
+DataStructure.Non-Primitive.Non-Linear.Graph,3564
 
 
