@@ -2,9 +2,9 @@ id,value
 hotelResv,
 hotelResv.analytics,
 hotelResv.analytics.cluster,
-hotelResv.analytics.cluster.ABCmart,3938
-hotelResv.analytics.cluster.CommunityStructure,3812
-hotelResv.analytics.cluster.HierarchicalCluster,6714
+hotelResv.analytics.cluster.ABC-mart,3938
+hotelResv.analytics.cluster.Community-Structure,3812
+hotelResv.analytics.cluster.Hierarchical-Cluster,6714
 hotelResv.analytics.graph,
 hotelResv.analytics.graph.BetweennessCentrality,3534
 hotelResv.analytics.graph.LinkDistance,5731
