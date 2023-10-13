@@ -1,19 +1,19 @@
 id,value
-DataStructure,
-DataStructure.Primitive,
-DataStructure.Primitive.integer,8880
-DataStructure.Primitive.Null,1921
-DataStructure.Primitive.double,1422
-DataStructure.Primitive.Character,412
-DataStructure.Non-Primitive,
-DataStructure.Non-Primitive.Linear,
-DataStructure.Non-Primitive.Linear.Array,753
-DataStructure.Non-Primitive.Linear.LinkedList,234
-DataStructure.Non-Primitive.Linear.Stack,864
-DataStructure.Non-Primitive.Linear.Queue,2454
-DataStructure.Non-Primitive.Linear.Heap,1315
-DataStructure.Non-Primitive.Non-Linear,
-DataStructure.Non-Primitive.Non-Linear.Tree,2363
-DataStructure.Non-Primitive.Non-Linear.Graph,3564
+dataStructure,
+dataStructure.primitive,
+dataStructure.primitive.Integer,8880
+dataStructure.primitive.Null,1921
+dataStructure.primitive.Double,1422
+dataStructure.primitive.Character,412
+dataStructure.non-Primitive,
+dataStructure.non-Primitive.linear,
+dataStructure.non-Primitive.linear.Array,753
+dataStructure.non-Primitive.linear.LinkedList,234
+dataStructure.non-Primitive.linear.Stack,864
+dataStructure.non-Primitive.linear.Queue,2454
+dataStructure.non-Primitive.linear.Heap,1315
+dataStructure.non-Primitive.non-linear,
+dataStructure.non-Primitive.non-linear.Tree,2363
+dataStructure.non-Primitive.non-linear.Graph,3564
 
 
